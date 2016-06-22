@@ -1,0 +1,15 @@
+[
+{
+  "modid": "deadmen",
+  "name": "Deadmen Mod",
+  "description": "Spooky",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["doctorocclusion"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
